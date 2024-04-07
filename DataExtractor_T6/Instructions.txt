@@ -1,0 +1,12 @@
+#Packages to be Installed
+pip install Streamlit
+pip install langchain_openai
+pip install openai
+pip install -U langchain-community
+
+
+
+#To Run the program
+streamlit run C:\Users\smart\OneDrive\Desktop\Data Extractor - T5\test.py
+or
+.\streamlit run test.py
